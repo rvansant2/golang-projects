@@ -1,0 +1,3 @@
+server="localhost"
+database="food-recipes"
+apikey="apiKey12345"
