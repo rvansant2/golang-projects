@@ -1,2 +1,2 @@
 # golang-projects
-A collection of project done in the Go language
+A collection of projects done with the Go language
